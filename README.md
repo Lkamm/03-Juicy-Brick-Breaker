@@ -13,6 +13,7 @@ the ball is animated
 paddle is animated
 bricks change colors when hit and cycle through colors
 They also sway
+added particles to both the paddle and bricks
 added shaders, a background VHS shader
 
 
