@@ -1,0 +1,15 @@
+[remap]
+
+importer="mp3"
+type="AudioStreamMP3"
+path="res://.import/The_ballad_of_Shifty_Pete.mp3-a2f3c3537a61893f5300930864ed5b3d.mp3str"
+
+[deps]
+
+source_file="res://Assets/The_ballad_of_Shifty_Pete.mp3"
+dest_files=[ "res://.import/The_ballad_of_Shifty_Pete.mp3-a2f3c3537a61893f5300930864ed5b3d.mp3str" ]
+
+[params]
+
+loop=true
+loop_offset=0
