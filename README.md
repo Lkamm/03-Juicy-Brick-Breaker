@@ -1,20 +1,27 @@
 # Brick-Breaker
 
-A starting place for Project 03
+10/13/2022
 
-
-```
-# Project Name
-Context and date
-
-Description
+## Description
+A brick breaker game. Made with lots of juicy features! Click to play!
 
 ## Implementation
-Which features you included
+Sound effects(made by me)
+Music(composed by me)
+added tweening to ball, paddle, and brick
+the ball is animated
+paddle is animated
+bricks change colors when hit and cycle through colors
+They also sway
+added shaders, a background VHS shader
+
+
 
 ## References
+https://godotshaders.com/shader/vhs-and-crt-monitor-effect/
 
 ## Future Development
+Bricks take more hits to kill as the levels progress
 
 ## Created by
-```
+Garrett Biggs
